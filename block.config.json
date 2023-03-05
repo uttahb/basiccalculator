@@ -1,0 +1,8 @@
+{
+  "name": "basiccalculator",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/basiccalculator",
+    "ssh": "git@github.com:uttahb/basiccalculator.git"
+  }
+}
